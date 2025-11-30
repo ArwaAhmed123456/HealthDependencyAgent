@@ -1,0 +1,15 @@
+Name,Current,Latest,Vulns,Health,Risk
+@testing-library/jest-dom,^5.17.0,6.9.1,0,95,Low
+@testing-library/react,^13.4.0,16.3.0,0,95,Low
+@testing-library/user-event,^13.5.0,14.6.1,0,95,Low
+@types/react,^18.2.31,19.2.4,0,95,Low
+@types/react-dom,^18.2.14,19.2.3,0,95,Low
+bootstrap,^5.3.2,5.3.8,0,95,Low
+react,^18.2.0,19.2.0,0,95,Low
+react-bootstrap,^2.9.1,2.10.10,0,95,Low
+react-dom,^18.2.0,19.2.0,0,95,Low
+react-hook-form,^7.47.0,7.66.0,0,95,Low
+react-router-dom,^6.17.0,7.9.5,0,95,Low
+react-scripts,^5.0.1,5.0.1,0,100,Low
+sass,^1.69.5,1.94.0,0,95,Low
+web-vitals,^2.1.4,5.1.0,0,95,Low
